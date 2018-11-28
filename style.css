@@ -71,6 +71,7 @@ p {
 	display:block;
 	padding:0px 22px;
 	text-transform:uppercase;
+    transition-duration: 0.5s;
 }
 #menu ul li a:hover {
 	background-color:#d1ab66;
