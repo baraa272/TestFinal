@@ -445,7 +445,7 @@ hr {
 	padding-top:25px;
 }
 #residnet_left_box {
-	width:660px;
+/*	width:660px; */
 	float:left;
 }
 #residnet_left_box h3 {
