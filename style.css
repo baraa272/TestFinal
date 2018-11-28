@@ -3,7 +3,7 @@
 .boltt{
     font-weight: bold;
     font-size:24px;
-    font-family: TimesNewRoman,Times New Roman,Times,Baskerville,Georgia,serif;
+  /*  font-family: TimesNewRoman,Times New Roman,Times,Baskerville,Georgia,serif; */
 }
 body {
 	margin:0px;
