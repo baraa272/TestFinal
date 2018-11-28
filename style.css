@@ -91,6 +91,12 @@ p {
 	margin:0px auto;
 	text-align:center;
 }
+.headerpadd{
+    padding-top: 50px !important;
+}
+.innerpadd{
+    height: 150px !important;
+}
 #heading {
 	font-family:"Century Gothic", Arial;
 	font-size:35px;
