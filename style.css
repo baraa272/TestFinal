@@ -426,6 +426,9 @@ hr {
 	padding:0px 10px;
 	margin-left:80px;
 }
+.ppp{
+    margin-bottom: 20px !important;
+}
 #disclaimer_info {
 	width:960px;
 	margin:0px auto;
@@ -434,7 +437,7 @@ hr {
 	margin:0px;
 	font-family:"Open Sans Semibold", Arial;
 	font-size:18px;
-	margin-bottom:15px;
+	margin-bottom:9px;
 }
 #disclaimer_info a {
 	text-decoration:none;
