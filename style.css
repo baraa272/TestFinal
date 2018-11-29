@@ -429,6 +429,12 @@ hr {
 .ppp{
     margin-bottom: 20px !important;
 }
+.bannercustom{
+    font-size: 27px !important;
+}
+.wid{
+    width: 90% !important;
+}
 #disclaimer_info {
 	width:960px;
 	margin:0px auto;
