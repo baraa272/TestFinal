@@ -467,7 +467,7 @@ hr {
 }
 #residnet_left_box {
 /*	width:660px; */
-	float:left;
+/*	float:left; */
 }
 #residnet_left_box h3 {
 	margin:0px;
