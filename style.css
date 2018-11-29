@@ -123,6 +123,9 @@ p {
 	float:left;
 	width:42px;
 }
+.heigh{
+    line-height: 2;
+}
 #number {
 /*	float:left; */
 	width:250px;
