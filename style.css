@@ -92,6 +92,11 @@ p {
 	margin:0px auto;
 	text-align:center;
 }
+#content_box p{
+    font-family: "Open Sans Semibold", Arial;
+    font-size: 16px;
+    
+}
 .headerpadd{
     padding-top: 50px !important;
 }
@@ -106,7 +111,7 @@ p {
 	text-transform:uppercase;
 }
 #content {
-	padding-top:25px;
+/*	padding-top:25px; */
 	line-height:30px;
 }
 #phone_box {
@@ -119,9 +124,9 @@ p {
 	width:42px;
 }
 #number {
-	float:left;
-	width:300px;
-	height:80px;
+/*	float:left; */
+	width:250px;
+	height:75px;
     
 	line-height:36px;
 	background-color:#d1ab66;
@@ -133,6 +138,16 @@ p {
 	color:#ffffff;
     margin: 0 auto;
     margin-bottom: 4px;
+}
+.numb{
+    text-decoration: none;
+}
+.numb:hover{
+    
+}
+#number p{
+    margin: 0 auto;
+    
 }
 #number span {
 	padding-left:10px;
